@@ -2,6 +2,7 @@ This function uses the LU Decompostion matrix solving method. With an input of a
 
 Inputs:
 * A = coefficient matrix
+
 Outputs:
 * L = lower triangular matrix
 * U = upper triangular matrix
