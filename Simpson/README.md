@@ -3,5 +3,6 @@ This function estimates an integral numerically using the Simpson's composite 1/
 Inputs
    x = the vector of equally spaced independent variable
    y = the vector of function values with respect to x
+   
 Outputs:
    I = the numerical integral calculated
