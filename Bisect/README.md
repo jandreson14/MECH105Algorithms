@@ -5,6 +5,7 @@ Inputs:
 * xl, xu = lower and upper guesses
 * es = desired relative error (default = 0.0001%)
 * maxit = maximum allowable iterations (default = 50)
+
 Outputs:
 * root = root estimate
 * fx = function value at root estimate
