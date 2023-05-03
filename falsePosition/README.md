@@ -2,13 +2,20 @@ The false postion function is a root finding function that uses the false postio
 
 Inputs:
    func - the function being evaluated
+   
    xl - the lower guess
+   
    xu - the upper guess
+   
    es - the desired relative error (optional input defaults to 0.0001% if not specified)
+   
    maxit - the maximum number of iterations to use (optional input defaults to 200 if not specified)
 
 Outputs:
    root - the estimated root location
+   
    fx - the function evaluated at the root location
+   
    ea - the approximate relative error (%)
+   
    iter - how many iterations were performed
